@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 İçindekiler
+## 📋 İçindekiler 
 
 - [Genel Bakış](#-genel-bakış)
 - [TTL Nedir?](#-ttl-nedir)
@@ -74,7 +74,11 @@ Telefon → Bilgisayar(TTL=65) → Router → ISP
    64   →        65         →   64   → 63 (ISP: "Bu tek cihaz")
 ```
 
----
+
+## 🖼️ Uygulama Görünümü
+
+![Image](https://github.com/user-attachments/assets/8a321c7f-dc09-496e-8842-b0dc3f435f89)
+
 
 ## 🖼️ Uygulama Görünümü
 ![Image](https://github.com/user-attachments/assets/8a321c7f-dc09-496e-8842-b0dc3f435f89)
@@ -334,8 +338,8 @@ Katkılarınızı bekliyoruz!
 ### 🔄 Güncellemeler
 
 - **v1.0.0**: İlk stabil sürüm
-- **v1.1.0**: TTL monitoring iyileştirmeleri
-- **v1.2.0**: GUI geliştirmeleri
+- **v1.0.0**: TTL monitoring iyileştirmeleri
+- **v1.0.0**: GUI geliştirmeleri
 
 ---
 
