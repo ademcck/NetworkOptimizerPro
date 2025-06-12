@@ -9,6 +9,7 @@
 - [Genel Bakış](#-genel-bakış)
 - [TTL Nedir?](#-ttl-nedir)
 - [Nasıl Çalışır?](#-nasıl-çalışır)
+- [Uygulama Görüntüsü](#-uygulama-görünümü)
 - [Sistem Gereksinimleri](#-sistem-gereksinimleri)
 - [Kurulum](#-kurulum)
 - [Kullanım Kılavuzu](#-kullanım-kılavuzu)
@@ -74,6 +75,9 @@ Telefon → Bilgisayar(TTL=65) → Router → ISP
 ```
 
 ---
+
+## 🖼️ Uygulama Görünümü
+![Image](https://github.com/user-attachments/assets/8a321c7f-dc09-496e-8842-b0dc3f435f89)
 
 ## 💻 Sistem Gereksinimleri
 
