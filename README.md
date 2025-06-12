@@ -98,7 +98,7 @@ Telefon → Bilgisayar(TTL=65) → Router → ISP
 
 ### 1. İndirme
 
-- [Son sürümü buradan indirin](https://github.com/ademcck/NetworkOptimizerPro)
+- [Son sürümü buradan indirin](https://github.com/ademcck/NetworkOptimizerPro/releases/download/v1.0/NetworkOptimizerPro.zip)
 - `NetworkOptimizerPro.exe` dosyasını indirin
 
 ### 2. Yükleme
